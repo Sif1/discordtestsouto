@@ -85,4 +85,4 @@ client.on('message', (receivedMessage) => {
 	
 
 
-client.login("NDkwMDQ1OTg3NjU4OTI0MDQy.Dnzmxg.UWjP7fKDNagRYh2hIhYactq7ArM")
+client.login(process.env.BOT_TOKEN);
